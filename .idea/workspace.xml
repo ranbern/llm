@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf42dcff-ed1d-49b2-918b-f3ce32214136" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deprecated/compare.py" beforeDir="false" afterPath="$PROJECT_DIR$/deprecated/compare.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fine_tuned_model/run_vanila.py" beforeDir="false" afterPath="$PROJECT_DIR$/fine_tuned_model/run_vanila.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fine_tuned_model/test_torch.py" beforeDir="false" afterPath="$PROJECT_DIR$/fine_tuned_model/test_torch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/queries" beforeDir="false" afterPath="$PROJECT_DIR$/queries" afterDir="false" />
-    </list>
+    <list default="true" id="bf42dcff-ed1d-49b2-918b-f3ce32214136" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
