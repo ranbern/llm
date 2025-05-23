@@ -21,7 +21,7 @@ new_tokens = st.slider("Number of tokens to generate:", 10, 150, 50)
 # Generate button
 if st.button("Generate Text"):
     # Check if fine-tuned model exists if that's what was selected
-    if model_choice == "Fine-tuned model" and not os.path.exists("./fine_tuned_model"):
+    if model_choice == "Fine-tuned model" and not os.path.exists("../fine_tuned_model"):
         st.error("Fine-tuned model not found. Please run training first.")
     else:
         with st.spinner("Setting up environment..."):

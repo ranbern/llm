@@ -6,7 +6,6 @@ from openai import OpenAI
 from tabulate import tabulate
 
 # Set up OpenAI API (ensure your API key is set as an environment variable or replace this line)
-os.environ["OPENAI_API_KEY"] = "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"
 
 
 client = OpenAI()
